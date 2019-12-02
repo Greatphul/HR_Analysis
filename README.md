@@ -5,7 +5,7 @@ We are needing to determine why some of our employees are leaving our workplace 
 Predicting who might leave before they go may allow us to intervene earlier.
 We will inspect and analyze different factors which lead to employee attrition.
 
-** Insights gained**
+**Insights gained**
 
 We did not explore in great depth and compare all the features, but there is an interesting observation during the aggregation
 and visualization stage of the analysis. It is discovered that the average monthly income may be an important factor in
