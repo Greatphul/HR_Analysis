@@ -1,5 +1,7 @@
 ## Data Transformation Process
 
+Use Azure account, and HDInsight clusters to perform the following transformations.
+
 **1.** Create new table called "employee-sales", and load the table "employee" into the table. Include four columns, using the appropriate schema:
 
     1) Attrition
