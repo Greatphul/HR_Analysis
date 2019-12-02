@@ -14,7 +14,7 @@ attrition group at $5910 and the non-attrition at $7230. The income for the attr
 average, which may influence them to look elsewhere for better remuneration. The dashboard visualization also confirms our findings
 when comparing the attrition and non-attrition categories.
 
-## Data folders structure
+### Data folders structure
 
 data > folder containing path and a link to the data source
 
